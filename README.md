@@ -4,6 +4,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering involves engineering principles, methods and tools to develop and maintain high-quality software systems. It plays a major role in the technology industry as it helps create, run and manage softwares that solves problems. For example, the operating systems which help our computers deliver.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
